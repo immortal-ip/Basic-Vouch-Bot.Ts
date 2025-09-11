@@ -1,0 +1,30 @@
+{
+  "name": "discord-vouch-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for vouching and ticketing.",
+  "main": "src/bot.ts",
+  "scripts": {
+    "start": "ts-node src/bot.ts",
+    "build": "tsc",
+    "dev": "ts-node-dev src/bot.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^17.2.2",
+    "ts-node": "^10.0.0",
+    "ts-node-dev": "^1.1.0",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "@types/ws": "^8.0.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "vouch",
+    "ticketing"
+  ],
+  "author": "Coder",
+  "license": "MIT"
+}
