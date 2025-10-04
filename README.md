@@ -14,7 +14,7 @@ The Discord Vouch Bot is a powerful and user-friendly bot designed to enhance co
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/discord-vouch-bot.git
+   git clone https://github.com/immortal-ip/discord-vouch-bot.git
    ```
 
 2. Navigate to the project directory:
